@@ -6,5 +6,4 @@ Dataset = Kaggle - Google Play Store Apps	(https://www.kaggle.com/lava18/google-
 Group members:
 1. Jonathan Vieri - 219559949
 2. Jason Andrea Limas - 219559869
-3. Venura Hewage -215287247
-4. Rakyan Satrya Adhikara - 219548135
+3. Rakyan Satrya Adhikara - 219548135
