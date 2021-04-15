@@ -1,7 +1,7 @@
 # DM-Project-Group27
 SIT307 (Data Mining &amp; Machine Learning) Assignment 2 from Group 27 (Trimester 1 2021)
 
-Dataset = Kaggle - Google Play Store Apps	(https://www.kaggle.com/lava18/google-play-store-apps)
+Dataset -> Kaggle - Google Play Store Apps	(https://www.kaggle.com/lava18/google-play-store-apps)
 
 Group members:
 1. Jonathan Vieri - 219559949
